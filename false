@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20190627183827_add_column_to_students.rb
